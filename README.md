@@ -2,3 +2,5 @@
 Projeto da disciplina Innovation Lab – Faculdade Impacta
 Alunos: Kauan Gill | Raphael Carvalho | Gabriel Cassiano | Guilherme Bernardo | Pedro Gebra
 2025/2026
+
+## Tecnologias utilizadas = git / github / vscode / nodejs / openspec / xanoscript
